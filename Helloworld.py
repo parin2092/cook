@@ -1,2 +1,2 @@
-if __name__ == '__main__':
+aif __name__ == '__main__':
 	print "Jesse !! Let's cook  !!"
