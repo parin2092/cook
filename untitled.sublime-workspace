@@ -1,0 +1,2093 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"solveCas",
+				"solveCase"
+			],
+			[
+				"hige",
+				"highestRight"
+			],
+			[
+				"srcima",
+				"src_images"
+			],
+			[
+				"PROCE",
+				"processMyntra"
+			],
+			[
+				"max",
+				"max1"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"cata",
+				"_catalog"
+			],
+			[
+				"config",
+				"CONFIG"
+			],
+			[
+				"img",
+				"img_org2.js"
+			],
+			[
+				"remain",
+				"remainingOptions	statement"
+			],
+			[
+				"diff",
+				"diffFile	statement"
+			],
+			[
+				"shot",
+				"shotNo"
+			],
+			[
+				"pim",
+				"pimgs.json"
+			],
+			[
+				"tgp",
+				"tgp3"
+			],
+			[
+				"dan",
+				"dna2"
+			],
+			[
+				"dn",
+				"dna2"
+			],
+			[
+				"DNA",
+				"dna2"
+			],
+			[
+				"dna",
+				"dna1"
+			],
+			[
+				"log",
+				"logger"
+			],
+			[
+				"selected",
+				"selectedProfiles"
+			],
+			[
+				"exc",
+				"exclude_list"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"params",
+				"paramsArray"
+			],
+			[
+				"proce",
+				"processManager"
+			],
+			[
+				"swit",
+				"switchTab"
+			],
+			[
+				"outputfo",
+				"OUTPUT_FOLDER"
+			],
+			[
+				"outpu",
+				"output"
+			],
+			[
+				"CONFI",
+				"CONFIGURATION"
+			],
+			[
+				"ouptu",
+				"outputFolderPath"
+			],
+			[
+				"outu",
+				"outputFolderPath"
+			],
+			[
+				"proces",
+				"processProfiles"
+			],
+			[
+				"oupt",
+				"outputFolderPath"
+			],
+			[
+				"init",
+				"initUploads"
+			],
+			[
+				"output",
+				"outputFolderPath"
+			],
+			[
+				"deco",
+				"decodings"
+			],
+			[
+				"confi",
+				"CONFIG"
+			],
+			[
+				"canva",
+				"canvas_height"
+			],
+			[
+				"el",
+				"Ellipsis	class"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"rand",
+				"random	statement"
+			],
+			[
+				"im",
+				"ImportError	class"
+			],
+			[
+				"showarr",
+				"showArrowGif"
+			],
+			[
+				"anima",
+				"animdir-ar	animation-direction: alternate-reverse;"
+			],
+			[
+				"OSIZ",
+				"osizes"
+			],
+			[
+				"creatmapp",
+				"createMulMappings"
+			],
+			[
+				"rmosizs",
+				"rm_osizes"
+			],
+			[
+				"mapping",
+				"mappings1"
+			],
+			[
+				"delete",
+				"deleteCookie"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"brand",
+				"brand-red"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"order",
+				"orderdetail"
+			],
+			[
+				"tx",
+				"text-align"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"border-",
+				"border-left"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"My",
+				"my_account"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"bore",
+				"border-left"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"bran",
+				"brand-red"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"data",
+				"data-id"
+			],
+			[
+				"s",
+				"stiktop"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"min",
+				"minHeight"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"tr",
+				"trs	transition: ${1:prop} ${2:time};"
+			],
+			[
+				"br",
+				"brand-gray"
+			],
+			[
+				"tras",
+				"transparent"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"he",
+				"heading"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"new",
+				"newHeight1"
+			],
+			[
+				"size",
+				"sizeParam"
+			],
+			[
+				"temp",
+				"tempOptions"
+			],
+			[
+				"mul",
+				"mulCall"
+			],
+			[
+				"all",
+				"allOptions"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"stats",
+				"statusCode"
+			],
+			[
+				"is",
+				"isUndefined"
+			],
+			[
+				"pre",
+				"prepaid_rules"
+			],
+			[
+				"st",
+				"store"
+			],
+			[
+				"zovi",
+				"zovistar"
+			],
+			[
+				"tip",
+				"tipClass"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"car",
+				"cardType"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Solution.py",
+			"settings":
+			{
+				"buffer_size": 83,
+				"line_ending": "Unix",
+				"name": "name = raw_input('What is your name?\\n')"
+			}
+		},
+		{
+			"file": "xor.py",
+			"settings":
+			{
+				"buffer_size": 1179,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ixor.txt",
+			"settings":
+			{
+				"buffer_size": 26,
+				"line_ending": "Unix",
+				"name": "1"
+			}
+		},
+		{
+			"file": "oxor.txt",
+			"settings":
+			{
+				"buffer_size": 587,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ixor2.txt",
+			"settings":
+			{
+				"buffer_size": 43,
+				"line_ending": "Unix",
+				"name": "1"
+			}
+		},
+		{
+			"file": "tadhar.txt",
+			"settings":
+			{
+				"buffer_size": 33,
+				"line_ending": "Unix",
+				"name": "3"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"plugin",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"pretti",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"pce",
+				"Package Control: Enable Package"
+			],
+			[
+				"pcinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"pcinstal",
+				"Package Control: Install Package"
+			],
+			[
+				"prettifypref",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"prettifype",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"pluginoption",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"pe",
+				"Package Control: Enable Package"
+			],
+			[
+				"prettify",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"pcinst",
+				"Package Control: Install Package"
+			],
+			[
+				"pccinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"prettifp",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"jplug",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"plugins",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"live",
+				"Package Control: Discover Packages"
+			],
+			[
+				"inspa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"vie",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"jso",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"htm",
+				"Tidy HTML"
+			],
+			[
+				"htl",
+				"Tidy HTML"
+			],
+			[
+				"javs",
+				"Format: Javascript"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/parin/Programming/cook"
+	],
+	"file_history":
+	[
+		"/home/parin/Programming/cook/oxor.txt",
+		"/home/parin/Programming/cook/oldll",
+		"/home/parin/Programming/cook/adhar.py",
+		"/home/parin/Programming/cook/xor.py",
+		"/home/parin/Programming/cook/ideepu.txt",
+		"/home/parin/Programming/cook/iandrew.txt",
+		"/home/parin/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/parin/Programming/cook/Andrew.java",
+		"/home/parin/Programming/cook/Template.java",
+		"/home/parin/Programming/cook/Deepu.java",
+		"/home/parin/Programming/cook/playlists/txt/everything/The Flaming Lips - In the Morning of the Magicians.mp3",
+		"/home/parin/Programming/cook/playlists/txt/Thievery Corporation - Amerimacka.mp3",
+		"/home/parin/Programming/cook/playlists/txt/everything/Florence and the Machine - Shake It Out.mp3",
+		"/home/parin/Programming/cook/SortObjs.java",
+		"/home/parin/Programming/cook/playlists/snapchat.js",
+		"/home/parin/work/zdev/var_replace/employee.csv",
+		"/home/parin/work/zdev/mapping/export_my_orders.json",
+		"/home/parin/work/zdev/db_mig/export.sh",
+		"/home/parin/work/zdev/zhq/misc/picasso/index.js",
+		"/home/parin/work/zdev/zhq/misc/picasso/index_new.js",
+		"/home/parin/work/zdev/zhq/misc/picasso/routes/index.js",
+		"/home/parin/work/zdev/zhq/index.html",
+		"/home/parin/work/zdev/zhq/sku/image_new.html",
+		"/home/parin/work/zdev/mapping/invoice.json",
+		"/home/parin/.config/sublime-text-3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/home/parin/Programming/cook/playlists/txt/Louise McCord - Better Get a Move On.mp3",
+		"/home/parin/Programming/cook/playlists/txt/Modern English - I Melt With You.mp3",
+		"/home/parin/Programming/cook/index.js",
+		"/home/parin/work/zdev/zhq/sku/js/img_org.js",
+		"/home/parin/work/zdev/zpo/db/invoice_migration.py",
+		"/home/parin/work/zdev/zhq/dmsService/html/index.html",
+		"/home/parin/work/zdev/zhq/misc/picasso/input_output_folders.js",
+		"/home/parin/work/zdev/mapping/sku_inventory_count.json",
+		"/home/parin/work/zdev/mapping/sku.json",
+		"/home/parin/work/zdev/zhq/misc/picasso/node_modules/aws-sdk/node_modules/xml2js/node_modules/sax/examples/hello-world.js",
+		"/home/parin/work/zdev/zhq/misc/picasso/node_modules/express/node_modules/connect/examples/helloworld.js",
+		"/home/parin/work/zdev/zhq/misc/picasso/node_modules/socket.io/node_modules/socket.io-client/node_modules/indexof/.npmignore",
+		"/home/parin/grains mobile/female.txt",
+		"/home/parin/grains mobile/male.txt",
+		"/home/parin/grains mobile/female_unique.txt",
+		"/home/parin/grains mobile/male_unique.txt",
+		"/home/parin/work/zdev/zhq/misc/picasso/js/sizes.js",
+		"/home/parin/work/zdev/zhq/includes/submenu/config.html",
+		"/home/parin/work/zdev/zhq/config/html/dashboard.html",
+		"/home/parin/work/zdev/zhq/config/css/dashboard.css",
+		"/home/parin/work/zdev/zcommon/config/zin-dev.properties",
+		"/home/parin/work/zdev/zcommon/config/crons.txt",
+		"/home/parin/work/zdev/zhq/config/html/partials/viewHubLanes.html",
+		"/home/parin/work/zdev/zhq/config/html/partials/viewHub.html",
+		"/home/parin/work/zdev/zhq/configure_filters/js/ui-bootstrap.js",
+		"/home/parin/work/zdev/zcommon/config/sku_limits.json",
+		"/home/parin/work/zdev/zhq/misc/picasso/uploader/config.json",
+		"/home/parin/work/zdev/zcontainer/cron/om/scripts/php/cancel_orders_from_backend.php",
+		"/home/parin/work/zdev/mapping/category.json",
+		"/home/parin/work/zdev/zhq/wms/js/controller/printApp/printDashboardController.js",
+		"/home/parin/work/zdev/zcontainer/crm/scripts/php/http/DashBoardHttpService.php",
+		"/home/parin/work/zdev/zhq/crm/dashboard.html",
+		"/home/parin/work/zdev/var_replace/dms_all.csv",
+		"/home/parin/work/zdev/zcontainer/mws/scripts/sh/amazon_submit_feed.sh",
+		"/home/parin/work/zdev/mapping/subcatattr.json",
+		"/home/parin/work/zdev/zhq/config/js/setUpApp.js",
+		"/home/parin/work/zdev/zhq/includes/submenu/finance.html",
+		"/home/parin/work/zdev/zhq/misc/picasso/uploader/uploader.js",
+		"/home/parin/work/zdev/zcontainer/cron/po/scripts/php/inventory_piece_grned_haathi.php",
+		"/home/parin/work/zdev/zhq/sku/mp_image_organiser.html",
+		"/home/parin/work/zdev/zhq/sku/mp-images.html",
+		"/home/parin/work/zdev/zhq/po/partials/modal_payments.html",
+		"/home/parin/work/zdev/zhq/op_mapping/css/mappings.css",
+		"/home/parin/work/zdev/zhq/misc/picasso/uploader/test.js",
+		"/home/parin/mig/reupload_regular.txt",
+		"/home/parin/mig/getUnique.js",
+		"/home/parin/mig/unique.txt",
+		"/home/parin/work/zdev/zhq/misc/picasso/uploader/error.txt",
+		"/home/parin/work/zdev/zcontainer/common/scripts/php/http/BuildHttpService.php",
+		"/home/parin/work/zdev/zhq/config/html/build.html",
+		"/home/parin/work/zdev/bloc_inventory.csv",
+		"/home/parin/Downloads/missing_only_options.txt",
+		"/home/parin/ind/indexer/list.txt",
+		"/home/parin/work/zdev/zhq/misc/picasso/uploader/folders.js",
+		"/home/parin/work/zdev/zhq/misc/picasso/public/index.html",
+		"/home/parin/ind/indexer/copy_files.js",
+		"/home/parin/ind/indexer/move.js",
+		"/home/parin/work/platform/.gitignore",
+		"/home/parin/work/zdev/.git/config",
+		"/home/parin/work/zdev/.gitignore",
+		"/media/parin/7C77-E4F7/missing/indexer/move.js",
+		"/media/parin/7C77-E4F7/gitignore",
+		"/home/parin/Downloads/us-product.csv",
+		"/home/parin/ind/indexer/help.txt",
+		"/home/parin/ind/indexer/output.js",
+		"/home/parin/ind/indexer/indexer.js",
+		"/home/parin/Downloads/missing.csv",
+		"/home/parin/work/zdev/zhq/misc/picasso/uploader/index.js",
+		"/home/parin/work/zdev/zhq/config/js/ReversePickUpApp.js",
+		"/home/parin/work/zdev/mapping/pick_list.json",
+		"/home/parin/work/zdev/zpo/db/procurement_bulk_import.sh",
+		"/home/parin/work/zdev/mapping/payment.json",
+		"/home/parin/work/zdev/zpo/procurement/scripts/php/service/UploadService.php",
+		"/home/parin/work/zdev/zhq/misc/picasso/uploader/migration.uploader.js",
+		"/home/parin/work/zdev/test.js",
+		"/home/parin/work/zdev/zhq/css/fonts/fontello-6832d6b9/css/fontello-embedded.css",
+		"/home/parin/work/zdev/oc_inv_log.csv",
+		"/home/parin/work/zdev/zhq/misc/picasso/uploader/regular.uploader.js",
+		"/home/parin/work/zdev/zhq/sku/js/jquery-ui-1.10.3/tests/unit/resizable/resizable_events.js",
+		"/home/parin/work/zdev/zcommon/fwk/scripts/db/roles.js",
+		"/home/parin/work/zdev/zhq/po/partials/modal_filter_options.html",
+		"/home/parin/work/zdev/mapping/floor.json",
+		"/home/parin/work/zdev/zhq/css/fonts/fontello-6832d6b9/config.json",
+		"/home/parin/work/zdev/var_replace/consignment.csv",
+		"/home/parin/work/zdev/zhq/misc/partials/uploader.html",
+		"/home/parin/work/zdev/zdms/csv/update_hub_lanes.csv",
+		"/home/parin/work/zdev/zdms/csv/update_cargo_partner.csv",
+		"/home/parin/work/zdev/zhq/js/user.js",
+		"/home/parin/work/zdev/zhq/misc/picasso/js/categories.js",
+		"/home/parin/work/zdev/zhq/misc/category_tax.html",
+		"/home/parin/work/zdev/mapping/crm_accounts.json",
+		"/home/parin/work/zdev/zdms/csv/mig/INDIA_POST_158.json",
+		"/home/parin/work/zdev/zhq/op_mapping/js/ngDraggable.js",
+		"/home/parin/work/zdev/zhq/config/html/build2.html",
+		"/home/parin/work/zdev/zhq/config/html/buildUI.html",
+		"/home/parin/work/zdev/zhq/config/html/buildOptions.html",
+		"/home/parin/work/zdev/zhq/config/html/buildTags.html",
+		"/home/parin/work/zdev/zhq/config/html/buildRules.html",
+		"/home/parin/work/zdev/zhq/config/html/cod_availability.html",
+		"/home/parin/work/zdev/zhq/crm/customer.html",
+		"/home/parin/work/zdev/zhq/po/supplier_invoices.php",
+		"/home/parin/work/zdev/zhq/css/sorting.css",
+		"/home/parin/work/zdev/zhq/crm/international_order_pay_failed.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 121.0,
+		"where_history":
+		[
+			"/home/parin/work/zdev",
+			"/home/parin/work/zdev\\",
+			"/home/parin/work/picasso/index.js",
+			"/home/parin/Programming/websync",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b4c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\zdev\\zhq\\js",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\scss",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\static-html\\size-help",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\hq\\zhq\\js",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\hq\\common\\scripts",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\includes\\banners",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\includes\\banners",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\includes\\banners",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\includes\\templates",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\scss",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b2c\\main\\html\\scripts",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b2c\\main\\html\\scripts",
+			"C:\\wamp\\www\\b2c\\main\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\static-html\\size-help",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b2c\\main\\html\\scripts",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\static-html\\size-help",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\inkfruit\\html\\sass",
+			"C:\\wamp\\www\\inkfruit\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\inkfruit\\html",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\ui\\b2c\\main\\html\\scripts",
+			"C:\\wamp\\www\\inkfruit\\html\\js",
+			"C:\\wamp\\www\\b2c\\main\\html\\scripts",
+			"C:\\wamp\\www\\b2c\\main\\html\\script",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\inkfruit\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\sass",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\",
+			"C:\\wamp\\www\\b3c\\html\\static-html",
+			"C:\\wamp\\www\\b3c\\html\\js",
+			"C:\\wamp\\www\\b3c\\html\\includes"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"wisdomleaf",
+			"qi",
+			"\"",
+			"te",
+			"int",
+			"building[i-1]",
+			"highestLeft",
+			"arr",
+			"Andrew",
+			"t",
+			"tc",
+			"input_output_folders",
+			"iodir",
+			"input_output_folders",
+			"input_output_folders.input",
+			"removeUnnecessaryFiles",
+			"utils",
+			"emptyDir",
+			"removeUnnecessaryFiles",
+			"src_images",
+			"permitted_exts",
+			"temp_src_images",
+			"src_images",
+			"permitted_exts",
+			"get_next_sequence_num",
+			"get_max_no",
+			"get_next_sequence_num",
+			"remove_unnecessaryFiles",
+			"empty_dir",
+			"specialURL",
+			"CHANGETHIS",
+			"specialURL",
+			"get_extension",
+			"quali",
+			"case",
+			"get_option_doc",
+			"get_next_sequence_num",
+			"specialURL",
+			"option_service",
+			"folderService",
+			"get_option_doc",
+			"option_service",
+			"processNormal",
+			"processImageSize",
+			"processJabong",
+			"get_extension",
+			"console.log",
+			"get_extension",
+			"_m",
+			"://zovi.com/",
+			"zovi.com",
+			"//zovi.com/",
+			"/bm1/g/p/",
+			"build",
+			"market_places",
+			"get_option_doc",
+			"get_next_sequence_num",
+			"get_option_doc",
+			"get_next_sequence_num",
+			"get_option_doc",
+			"get_next_sequence_num",
+			"bd1",
+			"folderService",
+			"console.log",
+			"console.log(",
+			"folderService",
+			"==op-code==",
+			"==opcode==",
+			"folderService",
+			",",
+			"'",
+			"arr",
+			"(\\w+)$",
+			"/bm1/g/p/",
+			"fileDataToAppend",
+			"newName",
+			"oldName",
+			"newName",
+			"amISuperUser",
+			"isSuperUser",
+			"^(\\w+)",
+			"assets",
+			"shouldHideRegularUploadButton",
+			"regular",
+			"$scope.mode",
+			"migration",
+			"start_upload",
+			"mode",
+			"startMigration",
+			"assets",
+			"startMigration",
+			"ALL_CONFIGURATIONS",
+			"CONFIGURATION",
+			"startMigration",
+			"MPPR",
+			"getDimensionsFromConfigJsons",
+			"option_doc",
+			"process_image",
+			"getDimensionsFromConfigJsons",
+			"option_doc.sct",
+			"hr>",
+			"Tags",
+			"/build",
+			"UI",
+			"get_next_sequence_num",
+			"console.log",
+			"option_service",
+			"console.log",
+			"get_next_sequence_num",
+			"opDoc",
+			"OpDoc",
+			"getDimensionsFromConfigJsons",
+			"{{option}}",
+			"duration",
+			"optionSelected",
+			"()\"",
+			"opts",
+			"each_img",
+			"(1.2)",
+			"1.4",
+			"migration",
+			"console.log",
+			"console.log(",
+			"migration",
+			"option_code",
+			"getDimensionsFromConfigJsons",
+			"get_dimensions",
+			"getDimensionsFromConfigJsons"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$1\nconsole.log(\"inside $2\");",
+			"\"{{",
+			"}}\"",
+			"\"{{",
+			"}}\"",
+			"\"{{",
+			"0 9243 777 000",
+			"080 66906702",
+			"0 9243 777 000",
+			"080 66906702",
+			"pin",
+			"}}\"",
+			"\"{{",
+			"'cancelled'",
+			"class=\"close-popup\"",
+			">99",
+			"( 99.9",
+			">99.9",
+			"zovi-log-ten.png",
+			"nav-icons-new8",
+			"/img/nav-icons-new12.png",
+			"",
+			"nav-icons-new12",
+			"float: left; width:16.65%;",
+			"16.5%",
+			"",
+			"'},",
+			"'}",
+			"text: '",
+			": '",
+			"",
+			"}, {",
+			"}, ",
+			"{ value:",
+			"}",
+			",",
+			"',",
+			"'",
+			"",
+			"<div class=\"face back\"></div>\n                                    <div class=\"face bottom\"></div>\n                                    <div class=\"face left\"></div>\n                                    <div class=\"face right\"></div>iv>",
+			"\"image\": \"cotton.png\",\n                    \"url\" : \"javascript:;\",",
+			"nav-icons-new10",
+			"/b/looks/women/look",
+			"/b/looks/",
+			"nav-icons-new9.png",
+			"WebRupee",
+			"nav-icons-new8",
+			"",
+			"misc_ref_code=menu_",
+			"/b/home-images/may/",
+			"-m",
+			"-l",
+			".products-bar",
+			"/b",
+			"",
+			"false",
+			"/b",
+			".slide",
+			"Online Shopping - Clothes, Shoes, Accessories at Inkfruit.com - Online Fashion Store.",
+			"ctBrownLink",
+			"",
+			"</script>\"\n===================================",
+			"services.order.",
+			"$",
+			"\"{{",
+			"}}\"",
+			"}}'",
+			"'{{",
+			"{{",
+			"$",
+			"$('.bag')",
+			"<footer id=\"footer\"><!--# include file=\"/includes/footer.html\" --></footer>",
+			"04-",
+			"1.jpg",
+			"28-",
+			"/b/landing",
+			"26-",
+			"24-",
+			"/b/landing",
+			"/b/home-images",
+			"/g/z",
+			"/site-images/size_guides",
+			"/landing/mens-footwear/jan13/",
+			"/landing/mens-tee-shirts/jan13/",
+			"womens/jan13/",
+			"/landing/mens/jan13/",
+			"",
+			"/home-images/jan13/",
+			"[\n    [",
+			"/home-images/jan13/",
+			"trans.jpg",
+			"_template.html",
+			"detail-icons10",
+			"detail-icons9.png",
+			"detail-icons8",
+			"\\t",
+			"/site-images/size_guides/",
+			"nav",
+			"available-sizes",
+			"Strait",
+			"Open Sans",
+			"<ul class=\"reset-ul\">",
+			"src=\"/images/zovi-logo-xmas.png\" alt=\"Zovi.com - online shopping - clothes\" width=\"183\" height=\"42\"",
+			"$orangeborder",
+			"http://cdnl1.zovi.in/s/",
+			"A123KTF39402",
+			"",
+			"$",
+			"/images/",
+			"img/",
+			"/img",
+			"/img/",
+			"/sale-",
+			"/Sale-",
+			"z-index: 1",
+			"<li><a href=\"/our-story\" rel=\"nofollow\">Our Story</a></li>\n					<li><a href=\"/tandc\" rel=\"nofollow\">T&amp;C</a></li>",
+			"<li>Company",
+			"<li>Company\n				<ul>",
+			"",
+			"style=\"width: 940px; height: 200px;",
+			"",
+			"_",
+			"<img src=\"/images/zovi-logo-new.png\" alt=\"Zovi.com - online shopping - clothes\" width=\"156\" height=\"42\" />",
+			"zovi-logo-new.png",
+			"',",
+			"'",
+			"_",
+			"_zoom \\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/home/parin/Programming/cook"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Solution.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"auto_name": "name = raw_input('What is your name?\\n')",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "xor.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								746,
+								746
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ixor.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"auto_name": "1",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "oxor.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								580,
+								580
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ixor2.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"auto_name": "1",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "tadhar.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"auto_name": "3",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 435.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"oxor",
+				"oxor.txt"
+			],
+			[
+				"templat",
+				"Template.java"
+			],
+			[
+				"emptydir",
+				"zdev/zhq/misc/picasso/empty_dir.js"
+			],
+			[
+				"indexnew",
+				"zdev/zhq/misc/picasso/index_new.js"
+			],
+			[
+				"indenew",
+				"zdev/zhq/misc/picasso/index_new.js"
+			],
+			[
+				"index.js",
+				"zdev/zhq/misc/picasso/index.js"
+			],
+			[
+				"inputout",
+				"zhq/misc/picasso/input_output_folders.js"
+			],
+			[
+				"sizes.js",
+				"zhq/misc/picasso/js/sizes.js"
+			],
+			[
+				"indexnewj",
+				"zhq/misc/picasso/index_new.js"
+			],
+			[
+				"img_org",
+				"zhq/sku/js/img_org.js"
+			],
+			[
+				"config/das",
+				"zhq/config/html/dashboard.html"
+			],
+			[
+				"submenuconfig",
+				"zhq/includes/submenu/config.html"
+			],
+			[
+				"uploader.js",
+				"zhq/misc/picasso/uploader/uploader.js"
+			],
+			[
+				"sizes",
+				"zhq/misc/picasso/js/sizes.js"
+			],
+			[
+				"inde",
+				"zhq/dmsService/html/index.html"
+			],
+			[
+				"img_org.js",
+				"zhq/sku/js/img_org.js"
+			],
+			[
+				"build.html",
+				"zhq/config/html/build.html"
+			],
+			[
+				"buildhttpser",
+				"zcontainer/common/scripts/php/http/BuildHttpService.php"
+			],
+			[
+				"folder.js",
+				"zhq/misc/picasso/uploader/folders.js"
+			],
+			[
+				"uploader/index.js",
+				"zhq/misc/picasso/uploader/index.js"
+			],
+			[
+				"picasso/index.html",
+				"zhq/misc/picasso/public/index.html"
+			],
+			[
+				"uploader/index",
+				"zhq/misc/picasso/uploader/index.js"
+			],
+			[
+				"index.html",
+				"zhq/index.html"
+			],
+			[
+				"folders.js",
+				"zhq/misc/picasso/uploader/folders.js"
+			],
+			[
+				"regular.up",
+				"zhq/misc/picasso/uploader/regular.uploader.js"
+			],
+			[
+				"config.json",
+				"zhq/misc/picasso/uploader/config.json"
+			],
+			[
+				"uploade/index",
+				"zhq/misc/picasso/uploader/index.js"
+			],
+			[
+				"categories.js",
+				"zhq/misc/picasso/js/categories.js"
+			],
+			[
+				"build",
+				"config/html/build.html"
+			],
+			[
+				"pimgs.json",
+				"misc/pimgs.json"
+			],
+			[
+				"imagorga",
+				"sku/mp_image_organiser.html"
+			],
+			[
+				"migrationsize",
+				"misc/picasso/js/migration_sizes.js"
+			],
+			[
+				"migration",
+				"misc/picasso/js/migration_sizes.js"
+			],
+			[
+				"ussize",
+				"misc/picasso/js/us_sizes.js"
+			],
+			[
+				"imgorg.html",
+				"sku/mp_image_organiser2.html"
+			],
+			[
+				"imgorg",
+				"sku/mp_image_organiser.html"
+			],
+			[
+				"imgorg.js",
+				"sku/js/img_org.js"
+			],
+			[
+				"mpimageorgain",
+				"sku/mp_image_organiser.html"
+			],
+			[
+				"mapping/index.html",
+				"op_mapping/index.html"
+			],
+			[
+				"ngdragga",
+				"op_mapping/js/ngDraggable.js"
+			],
+			[
+				"ngdragag",
+				"op_mapping/css/ngDraggable.css"
+			],
+			[
+				"mpimageoragi",
+				"sku/mp_image_organiser.html"
+			],
+			[
+				"img",
+				"sku/js/img_org.js"
+			],
+			[
+				"mapping",
+				"op_mapping/js/ngDraggable.js"
+			],
+			[
+				"mpimageora",
+				"sku/mp_image_organiser.html"
+			],
+			[
+				"imgor",
+				"sku/js/img_org.js"
+			],
+			[
+				"s3.js",
+				"misc/picasso/uploader/s3.js"
+			],
+			[
+				"mpimagenik.js",
+				"zhq/sku/js/mp_images_nik.js"
+			],
+			[
+				"mpimagenik",
+				"zhq/sku/mp-images_nik.html"
+			],
+			[
+				"/sku/mp_image_organiser.html",
+				"zhq/sku/mp_image_organiser.html"
+			],
+			[
+				"shprpayservi",
+				"zcontainer/common/scripts/php/service/zshprPayTrackerService.php"
+			],
+			[
+				"zshrprhttpse",
+				"zcontainer/common/scripts/php/http/ZShprPayTrackerHttpService.php"
+			],
+			[
+				"shipperpayment",
+				"zhq/finance/html/shipper_payments.html"
+			],
+			[
+				"roles.js",
+				"zcommon/fwk/scripts/db/roles.js"
+			],
+			[
+				"test.js",
+				"test.js"
+			],
+			[
+				"index2.js",
+				"zhq/misc/picasso/index2.js"
+			],
+			[
+				"socket",
+				"zhq/misc/picasso/socket_server.js"
+			],
+			[
+				"sokcet",
+				"zhq/misc/picasso/socket_server.js"
+			],
+			[
+				"optionlinkerser",
+				"zcommon/fwk/scripts/php/service/OptionLinkerService.php"
+			],
+			[
+				"buildhttpse",
+				"zcontainer/common/scripts/php/http/BuildHttpService.php"
+			],
+			[
+				"shipperpaymen",
+				"zhq/finance/html/shipper_payments.html"
+			],
+			[
+				"finance/dashboard",
+				"zhq/finance/html/dashboard.html"
+			],
+			[
+				"submenu/finan",
+				"zhq/includes/submenu/finance.html"
+			],
+			[
+				"optionlinkerhttp",
+				"zcontainer/common/scripts/php/http/ZOptionLinkerHttpService.php"
+			],
+			[
+				"picasso/config",
+				"zhq/misc/picasso/uploader/config.json"
+			],
+			[
+				"inventorlook",
+				"zhq/config/html/inventory_lookup.html"
+			],
+			[
+				"shipperpayhos",
+				"zdms/dms/scripts/php/bo/entity/shipperPayHistory.php"
+			],
+			[
+				"zshprpaytrackerhttpservice.php",
+				"zcontainer/common/scripts/php/http/ZShprPayTrackerHttpService.php"
+			],
+			[
+				"finacn/alle",
+				"zhq/finance/js/directives/alertModule.js"
+			],
+			[
+				"finance/alert",
+				"zhq/finance/js/directives/alertModule.js"
+			],
+			[
+				"design/index",
+				"zhq/designs/index.html"
+			],
+			[
+				"zshprpaytrackerservice",
+				"zcontainer/common/scripts/php/service/zshprPayTrackerService.php"
+			],
+			[
+				"testpay",
+				"zcommon/sku/scripts/php/service/testPayTracker.php"
+			],
+			[
+				"seque",
+				"zcommon/ds/scripts/js/sequences.js"
+			],
+			[
+				"paytracker",
+				"zdms/dms/scripts/php/bo/entity/shipperPayTracker.php"
+			],
+			[
+				"shprpaycollec",
+				"zdms/dms/scripts/php/bo/collection/shipperPayHistoryCollection.php"
+			],
+			[
+				"shipppayhttpse",
+				"zcontainer/common/scripts/php/http/ZShprPayTrackerHttpService.php"
+			],
+			[
+				"shipperpay",
+				"zdms/dms/scripts/php/service/shipperPayHistoryService.php"
+			],
+			[
+				"testpaytrace",
+				"zcommon/sku/scripts/php/service/testPayTracker.php"
+			],
+			[
+				"testpaytracker",
+				"zcommon/sku/scripts/php/service/testPayTracker.php"
+			],
+			[
+				"zshprpaytrackerhttpservice",
+				"zcontainer/common/scripts/php/http/ZShprPayTrackerHttpService.php"
+			],
+			[
+				"optionlinkerhttpse",
+				"zcontainer/common/scripts/php/http/ZOptionLinkerHttpService.php"
+			],
+			[
+				"zcargopartnerhttpservice",
+				"zcontainer/dms/scripts/php/http/ZCargoPartnerHttpService.php"
+			],
+			[
+				"testoptionserv",
+				"zcommon/sku/scripts/php/service/TestOptionService.php"
+			],
+			[
+				"shipperpayhistory",
+				"zdms/dms/scripts/php/bo/collection/shipperPayHistoryCollection.php"
+			],
+			[
+				"shipperpayhistor",
+				"zdms/dms/scripts/php/service/shipperPayHistoryService.php"
+			],
+			[
+				"shipperhistory",
+				"zdms/dms/scripts/php/bo/entity/shipperPayHistory.php"
+			],
+			[
+				"uploaderindex.js",
+				"misc/picasso/uploader/index.js"
+			],
+			[
+				"viewhubs",
+				"config/html/partials/viewHubLanes.html"
+			],
+			[
+				"hubs",
+				"config/js/controllers/viewHubsController.js"
+			],
+			[
+				"packing",
+				"wms/html/packing.html"
+			],
+			[
+				"barcodedir",
+				"config/js/directives/BarcodeDirectiveModule.js"
+			],
+			[
+				"links",
+				"config/html/partials/links.html"
+			],
+			[
+				"barcoddirective",
+				"config/js/directives/BarcodeDirectiveModule.js"
+			],
+			[
+				"alertmoduels",
+				"js/alertModule.js"
+			],
+			[
+				"ajaxloader",
+				"wms/js/directive/ajaxLoaderModule.js"
+			],
+			[
+				"config/setup.html",
+				"config/html/setup.html"
+			],
+			[
+				"inputoutpu",
+				"input_output_folders.js"
+			],
+			[
+				"inputoutput",
+				"input_output_folders.js"
+			],
+			[
+				"socket_ser",
+				"socket_server.js"
+			],
+			[
+				"inputoutp",
+				"input_output_folders.js"
+			],
+			[
+				"uploader",
+				"uploader/uploader.js"
+			],
+			[
+				"config",
+				"uploader/config.json"
+			],
+			[
+				"indexhtml",
+				"public/index.html"
+			],
+			[
+				"index",
+				"index.js"
+			],
+			[
+				"app.js",
+				"app.js"
+			],
+			[
+				"imageuploader",
+				"zhq/misc/picasso/image_uploader.rb"
+			],
+			[
+				"iwydev",
+				"platform/misc/config/iwy-dev.properties"
+			],
+			[
+				"iwyww",
+				"platform/misc/config/iwy-www.properties"
+			],
+			[
+				"iwy-www",
+				"platform/misc/config/iwy-www.properties"
+			],
+			[
+				"snapcah",
+				"playlists/snapchat.js"
+			],
+			[
+				"nerdin",
+				"playlists/nerding2.js"
+			],
+			[
+				"icasso/index",
+				"zhq/misc/picasso/index.js"
+			],
+			[
+				"picasson/index.js",
+				"zhq/misc/picasso/node_modules/express/index.js"
+			],
+			[
+				"jockstrap.c",
+				"zhq/misc/picasso/public/stylesheets/jockstrap.css"
+			],
+			[
+				"picasso",
+				"zhq/misc/picasso/index.js"
+			],
+			[
+				"zcommon/fwk/scripts/php/service/optionlinkerservice.php",
+				"zcommon/fwk/scripts/php/service/OptionLinkerService.php"
+			],
+			[
+				"picasso/index.js",
+				"zhq/misc/picasso/index.js"
+			],
+			[
+				"optonlinkerservice",
+				"zcommon/fwk/scripts/php/service/OptionLinkerService.php"
+			],
+			[
+				"cronoptionlinker",
+				"zcommon/fwk/scripts/php/service/cronOptionLinkerService.php"
+			],
+			[
+				"optionlinkerservice",
+				"zcommon/fwk/scripts/php/service/OptionLinkerService.php"
+			],
+			[
+				"optionmappi",
+				"zcontainer/common/scripts/php/http/ZOptionMapperService.php"
+			],
+			[
+				"mapping.css",
+				"zhq/op_mapping/css/mappings.css"
+			],
+			[
+				"opmapping/indec",
+				"zhq/op_mapping/lib/underscore-min.js"
+			],
+			[
+				"filterjsonhttpse",
+				"zcontainer/common/scripts/php/http/filterJsonUpdateHttpService.php"
+			],
+			[
+				"filter/index",
+				"zhq/configure_filters/index.html"
+			],
+			[
+				"filter/index.html",
+				"zhq/configure_filters/index.html"
+			],
+			[
+				"opmapp",
+				"zhq/op_mapping/js/mapper.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/workspaces/zdev.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

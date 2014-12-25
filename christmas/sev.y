@@ -1,0 +1,1 @@
+h=H-floor(1/2*a*tan(theta_max*PI/180))

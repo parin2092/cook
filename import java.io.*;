@@ -1,0 +1,58 @@
+import java.io.*;
+public class WallMart {
+	public static int jobMachine( String[] input1 ) {
+		int n = input1.length();
+		int[] lis = new int[ n ];
+		Duration duration[] = new Duration[ n ];
+		populateDuration( duration, input1 );
+		for ( ;; ) {
+
+		}
+		return 1;
+	}
+	public static void getIntVal( Object o ) {
+		return Integer.parseInt( o );
+	}
+	public static int get24time( String time ) {
+		String ts = time.split( "AM||PM" );
+		switch ( ts[ 1 ] ) {
+		case "AM":
+			return getIntVal( ts[ 0 ] );
+		case "PM":
+			int t = getIntVal( ts[ 0 ] );
+			return ( t < 12 ? t + 12 : t );
+		}
+	}
+	public static void populateDuration( Duration[] durObjs, String[] dur ) {
+		int n = dur.length();
+		for ( int i = 0; i < n; i++ ) {
+			String[] se = dur.split( "#" );
+			int s = get24time( se[ 0 ] );
+			int e = get24time( se[ 1 ] );
+			durObjs[ i ] = new Duration( s, e );
+		}
+	}
+	public static void main( String[] args ) {
+		String[] durations = {
+			"6AM#8AM", "11AM#1PM", "7AM#3PM", "7AM#10AM", "10AM#12PM", "2PM#4PM", "1PM#4PM", "8AM#9AM"
+		};
+		jobMachine( durations );
+	}
+	public class Duration implements Comparable < Duration > {
+		public int start;
+		public int end;
+		Duration( int s, int e ) {
+			this.start = s;
+			this.end = e;
+		}
+		public int compareTo( Duration another ) {
+			if ( this.start == another.start ) {
+				return this.end - another.end;
+			} else {
+				return this.start - this.end;
+			}
+		}
+
+	}
+
+}
