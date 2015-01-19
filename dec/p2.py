@@ -1,4 +1,4 @@
-# import sys
+import sys
 
 def intToChar(i):
 	return chr(i)

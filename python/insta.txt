@@ -1,3 +1,0 @@
-http://instagram.com/developer/endpoints/tags/#
-https://github.com/Instagram/python-instagram
-http://pythontutor.com/visualize.html#mode=edit
