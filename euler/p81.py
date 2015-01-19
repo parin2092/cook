@@ -1,17 +1,18 @@
-import json
-fp = open('ip81.json')
-mat = json.load(fp)
+from urllib2 import urlopen
 
-def psum(i,j):
-	n = len(mat)
-	if ((n-1)) == i == j:
-		return mat[i][j]
-	elif (n-1) == i and (n-1) != j:
-		return mat[i][j] + psum( i, j+1)
-	elif (n-1) != i and (n-1) == j:
-		return mat[i][j] + psum( i+1, j)
-	else:
-		return mat[i][j] + min(psum(i+1,j),psum(i,j+1))
+file_url = 'https://projecteuler.net/project/resources/p081_matrix.txt'
+matrix = [map(int, row.split(',')) for row in urlopen(file_url).readlines()]
+n, m = len(matrix), len(matrix[0])
 
+for i in xrange(n):
+	for j in xrange(m):
+		if i*j > 0 :
+			matrix[i][j] += min(matrix[i-1][j], matrix[i][j-1])
+		elif i != 0:
+			matrix[i][j] += matrix[i-1][j]
+		elif j != 0:
+			matrix[i][j] += matrix[i][j-1]
+		else:
+			matrix[i][j] += 0
 
-print psum( 0, 0)
+print  matrix[-1][-1]
