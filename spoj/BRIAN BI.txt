@@ -1,0 +1,3 @@
+I suggest the following: ACODE, AIBOHP, BYTESM2, CHOCOLA, GNY07H, INUMBER, KNAPSACK, LEXBRAC, LSORT, MBEEWALK, MINUS, MIXTURES, MTILE, MUSKET, ROCK, SQRBR, SUMITR, THREECOL, TRT, TWENDS.
+
+(This sample is biased toward problems that are easy enough for me to actually solve.)
