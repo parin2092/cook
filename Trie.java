@@ -83,6 +83,7 @@ public class TrieNode {
 
 	public String toString() {
 		if ( parent == null ) {
+			int a = 40;
 			return "";
 		} else {
 			return parent.toString() + new String( new char[] {
