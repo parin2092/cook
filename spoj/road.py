@@ -50,3 +50,8 @@ for t in xrange(tc):
 			ddp[end] = min(ddp[end], ddp[j] + cost)
 			print start,j,end,cost,ddp
 	print ddp[n]
+
+
+'''
+I am currently fixing some bugs and will work on new feature in new branch
+'''
